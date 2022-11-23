@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z3YwfIJx2E4Mnm7+3vDR1CO8O71poDzvQvxxOsHNs1Rinztwgy5xL6v6Ni11kb5vBh9dcLZbI9KFn7JRchNA8A==",
+  "dgSpecHash": "YlCQPZ95TcFaiqi8+EzaadqQO7GUBOZc3k+gAZBvFMTp73pi5ihfRS4JuRGlWJrtZZyxdAR7jSi/TmVuZskUFA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj",
+  "projectFilePath": "C:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Paulo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

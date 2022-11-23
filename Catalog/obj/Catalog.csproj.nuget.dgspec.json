@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj": {}
+    "C:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj": {
+    "C:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "c:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\Paulo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\obj\\",
+        "outputPath": "C:\\Users\\Paulo\\Desktop\\Git\\AspNetCore5AndCSharp9\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
