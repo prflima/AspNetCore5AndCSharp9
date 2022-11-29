@@ -23,5 +23,27 @@ namespace Catalog.Repositories
         {
             return items.FirstOrDefault(item => item.Id == id);
         }
+
+        public void CreateItem(Item item)
+        {
+            items.Add(item);
+        }
+
+        public void UpdateItem(Item item)
+        {
+            var index = GetIndexOfItem(item.Id);
+            items[index] = item;
+        }
+
+        public void DeleteItem(Guid id)
+        {
+            var index = GetIndexOfItem(id);
+            items.RemoveAt(index);
+        }
+
+        private int GetIndexOfItem(Guid id)
+        {
+            return items.FindIndex(it => it.Id == id);
+        }
     }
 }
