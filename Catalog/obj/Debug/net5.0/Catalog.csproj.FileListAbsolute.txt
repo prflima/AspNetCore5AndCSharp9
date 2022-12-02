@@ -27,3 +27,14 @@ C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\obj\Debug\net5.0\Catalo
 C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\obj\Debug\net5.0\ref\Catalog.dll
 C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\obj\Debug\net5.0\Catalog.pdb
 C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\Snappier.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Paulo\Desktop\Git\AspNetCore5AndCSharp9\Catalog\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
