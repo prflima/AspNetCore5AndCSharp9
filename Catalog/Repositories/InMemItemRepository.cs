@@ -14,28 +14,28 @@ namespace Catalog.Repositories
             new Item { Id = Guid.NewGuid(), Name = "Sword Mastery", Price = 100, CreatedDate = DateTimeOffset.UtcNow }
         };
 
-        public IEnumerable<Item> GetItems()
+        public IEnumerable<Item> GetItemsAsync()
         {
             return items;
         }
 
-        public Item GetItem(Guid id)
+        public Item GetItemAsync(Guid id)
         {
             return items.FirstOrDefault(item => item.Id == id);
         }
 
-        public void CreateItem(Item item)
+        public void CreateItemAsync(Item item)
         {
             items.Add(item);
         }
 
-        public void UpdateItem(Item item)
+        public void UpdateItemAsync(Item item)
         {
             var index = GetIndexOfItem(item.Id);
             items[index] = item;
         }
 
-        public void DeleteItem(Guid id)
+        public void DeleteItemAsync(Guid id)
         {
             var index = GetIndexOfItem(id);
             items.RemoveAt(index);
