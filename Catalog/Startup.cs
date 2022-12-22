@@ -71,9 +71,10 @@ namespace Catalog
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Catalog v1"));
+                
+                app.UseHttpsRedirection();
             }
 
-            app.UseHttpsRedirection();
 
             app.UseRouting();
 
@@ -92,7 +93,7 @@ namespace Catalog
                             new
                             {
                                 status = report.Status.ToString(),
-                                checks = report.Entries.Select(x => new 
+                                checks = report.Entries.Select(x => new
                                 {
                                     name = x.Key,
                                     status = x.Value.Status.ToString(),
